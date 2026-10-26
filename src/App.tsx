@@ -31,8 +31,8 @@ const cardData: StatsCardData = {
 	description:
 		"Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.",
 	image: {
-		desktop: "stats-preview-card-react/images/image-header-desktop.jpg",
-		mobile: "stats-preview-card-react/images/image-header-mobile.jpg",
+		desktop: "/stats-preview-card-react/images/image-header-desktop.jpg",
+		mobile: "/stats-preview-card-react/images/image-header-mobile.jpg",
 		alt: "People working in an office",
 	},
 	stats: [
