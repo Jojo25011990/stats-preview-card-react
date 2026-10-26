@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+	/* Colors */
+	--color-purple-primary: #ab5cdb;
+	--color-body-primary: #0a0c1c;
+	--color-card-primary: #1b1937;
+	--color-card-shadow-primary: #171929;
+	/* End of Colors */
+
+	/* Fonts */
+	--font-primary: "Inter", sans-serif;
+	--font-secondary: "Lexend Deca", sans-serif;
+	/* End of Fonts */
+}
